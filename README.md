@@ -33,5 +33,5 @@
 
 1. Клонируйте репозиторий:
 ```bash
-git clone https://github.com/USERNAME/telegram-members-exporter.git
+git clone https://github.com/banhanman/telegram-members-exporter.git
 cd telegram-members-exporter
